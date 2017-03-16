@@ -1,0 +1,46 @@
+body, html {
+  font-size: small;
+}
+
+body, td, a, p, .h {
+  font-family: arial,sans-serif;
+}
+
+nav#header{
+	margin-top: 25px;
+  text-align: right;
+  height: 30px;
+}
+
+nav#header a{
+	color: #000;
+	text-decoration: none;
+	opacity: .75;
+	padding-left: 15px;
+  vertical-align: middle;  
+}
+
+nav#header a:visited{
+	color: #609;
+}
+
+a.gb_5b{
+	background-image: url(/images/i1_1967ca6a.png);
+	background-position: -132px -38px;
+	opacity: .85;
+	display: inline-block;
+	height: 30px;
+	box-sizing: border-box;
+	width: 30px;
+}
+
+a.bell{
+	background-color: rgba(0,0,0,.55);
+	background-image: url(/images/i1_1967ca6a.png);
+	background-position: -194px -21px;
+	opacity: .85;
+	display: inline-block;
+	height: 30px;
+	box-sizing: border-box;
+	width: 30px;
+}

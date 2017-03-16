@@ -1,0 +1,25 @@
+{
+  "name": "google-homepage",
+  "version": "0.0.0",
+  "description": "From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.6.0",
+    "serve-static": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vietdh85/google-homepage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vietdh85/google-homepage/issues"
+  },
+  "homepage": "https://github.com/vietdh85/google-homepage"
+}
